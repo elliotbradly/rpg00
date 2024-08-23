@@ -1,0 +1,6 @@
+[submodule "rpgmaker"]
+	path = rpgmaker
+	url = https://elliotbradly@dev.azure.com/elliotbradly/02.w.a.t.u.s/_git/rpgmaker
+[submodule "hudmaker"]
+	path = hudmaker
+	url = https://elliotbradly@dev.azure.com/elliotbradly/02.w.a.t.u.s/_git/hudmaker
